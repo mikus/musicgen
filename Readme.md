@@ -1,7 +1,8 @@
 # MusicGen
 
 Automatic music generator made during hackaton
-in Amazon Software Development Poland.
+in Amazon Software Development Center Poland
+in cooperation with Jakub Sobotka.
 
 ## Numerical approach
 
